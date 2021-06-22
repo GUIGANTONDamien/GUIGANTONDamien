@@ -1,4 +1,4 @@
-# ![GUIGANTONDamien](https://github.com/GUIGANTONDamien/GUIGANTONDamien/blob/main/ladding-page-github.png)
+# ![GUIGANTONDamien](https://github.com/GUIGANTONDamien/GUIGANTONDamien/blob/main/panor.png)
 
 <p align='center'>
   <strong>Bonjour à tous et à toutes, je m'appelle Damien, </strong><br/>
