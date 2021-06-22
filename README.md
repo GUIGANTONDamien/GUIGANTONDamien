@@ -24,4 +24,8 @@
  
  ![Les statistiques de GUIGANTON Damien sur les github](https://github-readme-stats.vercel.app/api?username=GUIGANTONDamien&show_icons=true&hide["prs","issues","contribs"])
 
-
+<p>
+  
+  [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=GUIGANTONDamien.visitor-badge"/>
+</p>
